@@ -1,7 +1,15 @@
-#include <stdio.h>
+/*
+ * # this hash is preprocessor directive
+ * include is the commend of includeing the library
+ * <name of libarary>
+ * "name of library"  looking in current dir
+    first then look in dir where standard lib are kept
+ */
+ 
+#include <iostream>
 
-int main(int argc, char **argv)
+int main()
 {
-	printf("hello world\n");
-	return 0;
+    std:: cout << "Hello World , in C++" << "\n";
+    return 0;
 }

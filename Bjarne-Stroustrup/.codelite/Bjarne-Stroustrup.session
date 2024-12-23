@@ -2,7 +2,15 @@
 <Session Name="/home/bug-hunter/Documents/Bjarne-Stroustrup/Bjarne-Stroustrup/Bjarne-Stroustrup.workspace">
   <int Value="0" Name="m_selectedTab"/>
   <wxString Value="/home/bug-hunter/Documents/Bjarne-Stroustrup/Bjarne-Stroustrup/Bjarne-Stroustrup.workspace" Name="m_workspaceName"/>
-  <TabInfoArray Name="TabInfoArray"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/bug-hunter/Documents/Bjarne-Stroustrup/Bjarne-Stroustrup/CPP/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
     <long Value="0" Name="Count"/>
   </SerializedObject>
