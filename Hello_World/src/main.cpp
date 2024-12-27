@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : std.cpp
+// Name        : hello app.cpp
 // Author      : Muhammad Khalaf
 // Version     :
 // Copyright   : Your copyright notice
